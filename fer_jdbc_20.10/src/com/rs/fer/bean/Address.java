@@ -10,15 +10,6 @@ public class Address {
 	private String state;
 	private String country;
 	private int userId;
-	private String nativecountry;
-	
-	public String getNativecountry() {
-		return nativecountry;
-	}
-
-	public void setNativecountry(String nativecountry) {
-		this.nativecountry = nativecountry;
-	}
 
 	public int getId() {
 		return id;
