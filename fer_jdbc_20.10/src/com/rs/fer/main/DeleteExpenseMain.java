@@ -19,8 +19,9 @@ public class DeleteExpenseMain {
 
 		if (isExecuted) {
 			System.out.println("Expense Deleted Successfully");
-		} else
+		} else {
 			System.out.println("Failed");
+		}
 
 	}
 }

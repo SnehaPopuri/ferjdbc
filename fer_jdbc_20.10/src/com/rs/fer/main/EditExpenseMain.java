@@ -42,7 +42,8 @@ public class EditExpenseMain {
 
 		if (isExecuted) {
 			System.out.println("Expense Edited Successfully");
-		} else
+		} else {
 			System.out.println("Failed");
+		}
 	}
 }

@@ -38,7 +38,8 @@ public class AddExpenseMain {
 
 		if (isExecuted) {
 			System.out.println("Expense added Successfully");
-		} else
+		} else {
 			System.out.println("Failed");
+		}
 	}
 }
