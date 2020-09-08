@@ -36,7 +36,8 @@ public class RegistrationMain {
 
 		if (isExecuted) {
 			System.out.println("Registerd Successfully");
-		} else
+		} else {
 			System.out.println("Registration Failed");
 	}
+}
 }
